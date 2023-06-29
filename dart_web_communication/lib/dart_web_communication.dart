@@ -5,8 +5,6 @@ library dart_web_communication;
 
 class DartWebCommunication {
 
-
-
   ///
   /// window.postMessage的方式进行与js交互
   ///
